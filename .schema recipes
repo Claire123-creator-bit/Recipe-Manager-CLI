@@ -1,0 +1,3 @@
+.schema recipes
+.schema ingredients
+.schema categories

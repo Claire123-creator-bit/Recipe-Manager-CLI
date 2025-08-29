@@ -1,0 +1,33 @@
+{
+  "_meta": {
+	"pipfile-spec": 6,
+	"sources": [
+	  {
+		"name": "pypi",
+		"url": "https://pypi.org/simple",
+		"verify_ssl": true
+	  }
+	],
+	"hash": {
+	  "sha256": "dummyhash0000000000000000000000000000000000000000000000000"
+	},
+	"requires": {
+	  "python_version": "3.12"
+	}
+  },
+  "default": {
+	"sqlalchemy": {
+	  "version": "==2.0.34",
+	  "index": "pypi"
+	},
+	"click": {
+	  "version": "==8.1.7",
+	  "index": "pypi"
+	},
+	"aiosqlite": {
+	  "version": "==0.20.0",
+	  "index": "pypi"
+	}
+  },
+  "develop": {}
+}
